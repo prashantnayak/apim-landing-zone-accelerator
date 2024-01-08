@@ -1,5 +1,5 @@
 AZURE_LOCATION: 'eastus'
-RESOURCE_NAME_PREFIX: 'nayakapidemo'
+RESOURCE_NAME_PREFIX: 'pn1'
 ENVIRONMENT_TAG: 'dev'
 DEPLOYMENT_NAME: 'nayakapi-demo-deployment'
 VM_USERNAME: 'agent'
